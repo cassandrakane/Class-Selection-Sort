@@ -1,0 +1,173 @@
+SORTED CLASSES (M/F/O)
+
+
+Class F (7/6/0)
+
+CKelley (Female) - 2
+RSears (Male) - 1
+KJacobs (Female) - 1
+AHarris (Male) - 1
+IHeatherly (Male) - 1
+RNguyen (Male) - 2
+CTabor (Male) - 1
+ABoehm (Female) - 1
+JButler (Male) - 1
+GBrundage (Female) - 1
+BBailey (Female) - 1
+EChristian (Male) - 2
+CShortridge (Female) - 2
+
+
+Class B (8/6/0)
+
+PTyner (Female) - 1
+WHarris (Male) - 1
+WBrown (Male) - 1
+DGonzales (Female) - 1
+KHaven (Female) - 1
+FScott (Male) - 1
+JAndrzejewski (Male) - 1
+DGarcia (Male) - 1
+YShellman (Female) - 1
+SStanford (Female) - 1
+GLucas (Male) - 1
+JSimone (Female) - 1
+ASpencer (Male) - 1
+DDuffy (Male) - 1
+
+
+ (2/0/1)
+
+DSmith (Male) - 3
+ () - 1
+GBright (Male) - 3
+
+
+Class E (6/6/0)
+
+BWoods (Female) - 1
+JVance (Male) - 1
+JYoung (Female) - 2
+CMerrell (Male) - 2
+EChavez (Female) - 1
+MMoore (Female) - 1
+GGoodall (Male) - 1
+JMcDaniel (Male) - 1
+JWatson (Female) - 2
+LHaveman (Female) - 2
+SParks (Male) - 1
+MJones (Male) - 2
+
+
+Class H (7/6/0)
+
+MSierra (Female) - 2
+JMcGann (Male) - 1
+LLy (Female) - 1
+DCox (Female) - 2
+CDixon (Male) - 2
+TPotter (Male) - 1
+LWolfe (Female) - 2
+KPena (Male) - 2
+DHomes (Male) - 1
+ICaulkins (Female) - 2
+GStratton (Male) - 2
+CGuevara (Male) - 2
+LWelborn (Female) - 2
+
+
+Class A (7/6/0)
+
+HAdams (Male) - 1
+JHudson (Male) - 1
+RJohnson (Female) - 1
+JPabst (Female) - 2
+RSchultz (Female) - 1
+JHefner (Female) - 1
+LShelton (Male) - 1
+JWilliams (Male) - 1
+DRios (Male) - 2
+JArbuckle (Male) - 1
+BGibson (Female) - 1
+MMcGregor (Female) - 1
+FJohnson (Male) - 1
+
+
+Class G (8/6/0)
+
+AMartin (Female) - 1
+RMack (Male) - 1
+MAllen (Female) - 1
+KHoffman (Male) - 1
+EHood (Male) - 1
+JWheeler (Female) - 1
+FLevy (Male) - 1
+LBanister (Female) - 1
+DHernandez (Male) - 1
+ANichols (Female) - 1
+CRotter (Male) - 1
+TProvost (Male) - 1
+ATrahan (Female) - 1
+DWeir (Male) - 1
+
+
+Class I (5/6/0)
+
+WSaba (Female) - 2
+KKenney (Female) - 2
+NDennis (Female) - 1
+RPorter (Male) - 3
+RPearson (Male) - 2
+KDrozd (Female) - 2
+JEpling (Male) - 2
+PRidenour (Male) - 3
+MBurke (Female) - 2
+MRiley (Male) - 3
+DMolina (Female) - 2
+
+
+Class J (5/4/1)
+
+BJeffries (Male) - 1
+GCook (Female) - 1
+MIngram (Female) - 1
+NCarrillo (Female) - 2
+DLamar (Male) - 1
+JMurphy (Male) - 3
+WGerald (Male) - 3
+JVarner (Male) - 1
+EReynolds (Other) - 1
+ECunniff (Female) - 2
+
+
+Class D (7/6/0)
+
+JOliver (Female) - 1
+DEarp (Male) - 2
+DJolley (Male) - 1
+AWisniewski (Male) - 1
+NHunter (Female) - 1
+MBarrera (Male) - 1
+MCoughlin (Female) - 1
+PMabe (Male) - 2
+DMoultrie (Female) - 1
+RTaylor (Male) - 1
+CDenton (Female) - 1
+ECole (Male) - 1
+JFoster (Female) - 1
+
+
+Class C (6/5/0)
+
+ENelson (Male) - 3
+WJohnson (Male) - 1
+RJensen (Male) - 2
+AChristopher (Male) - 2
+YPower (Female) - 1
+CHardison (Female) - 1
+MFields (Female) - 3
+KFossett (Female) - 3
+KRuiz (Male) - 1
+BMyers (Female) - 3
+AOden (Male) - 2
+
